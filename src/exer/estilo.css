@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+    min-height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aqua;
+    font-family: cursive;
+
+}
+form{
+    margin: 2% auto;
+    width: 50%;
+}
+input{
+    margin-top: 5px;
+    background-color: transparent;
+    padding: 20px;
+    margin: 10px;
+    outline: none;
+    color: aqua;
+    font-style: italic;
+    font-size: 1rem;
+    border-color: blue;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
